@@ -150,6 +150,6 @@ Desafio Neuro - Modelo Anti Fraude/
 ## 🆙 Próximos Passos (O que faltou)
 
 ### Melhorias Técnicas
-- [ ] **EDA mais robusto**: Com mais tempo de projeto, seria muito interessante realizar uma análise mais aprofundada na base de dados, com analise de distribuições, correlações e outliers e mais atributos.
-- [ ] **Pipeline de pré-processamento**: Com um EDA mais robusto, poderiamos implementar um Pipeline mais eficiente e utilziando técnicas mais otimizadas para os problemas encontrados.
+- [ ] **EDA mais robusto**: Com mais tempo de projeto, seria muito interessante realizar uma análise mais aprofundada na base de dados, com analise de distribuições, correlações e outliers de mais atributos.
+- [ ] **Pipeline de pré-processamento**: Com um EDA mais robusto, poderiamos implementar um Pipeline mais eficiente e utilizar técnicas mais otimizadas para os problemas encontrados.
 - [ ] **Hyperparameter Tuning**: Tanto para o XGBoost isolado como para o Ensemble, técnicas de otimização de hiperparametros seriam interessanes para extrair ainda mais performance dos modelos. Ferramentas como Optuna ou Algoritmos Genéticos seriam promissoas. (Um dos artigos que estou a frente no mestrado é demonstrando a capacidade dos algoritmos genéticos otimizarem os hiperparametros de modelos de ML com mais eficiencia :D. Artigo no diretório **Papers** ).

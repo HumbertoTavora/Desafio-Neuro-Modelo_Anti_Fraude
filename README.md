@@ -18,7 +18,7 @@ Este projeto implementa uma solução consistente para detecção de propensão 
 
 | Métrica | Baseline (XGBoost) | Modelo Final | Melhoria |
 |---------|-------------------|--------------|----------|
-| **Precision** | **71.23%** | 59.62x% | -17.7% |
+| **Precision** | **71.23%** | 59.62% | -17.7% |
 | **Recall** | 13.10% | **15.62%** | +19.0% |
 | **F1-Score** | 22.13% | **24.75%** | +11.8x% |
 | **Impacto Financeiro** | R$ 1.268.153,70 | **R$ 1.477.419,00** | +16.5% |

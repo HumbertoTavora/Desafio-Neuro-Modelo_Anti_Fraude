@@ -1,0 +1,23 @@
+# Manipulação de dados
+pandas
+numpy
+
+# Visualização
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+sklearn
+xgboost
+lightgbm
+catboost
+imblearn
+
+# Jupyter
+notebook
+
+# General
+sys
+os
+warnings

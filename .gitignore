@@ -1,0 +1,6 @@
+# Diretório de dados
+data/
+*.gz
+
+
+.venv/
